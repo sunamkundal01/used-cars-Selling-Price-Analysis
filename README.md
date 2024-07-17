@@ -1,6 +1,6 @@
 # used-cars-Selling-Price-Analysis
-Analyzing Selling Price of Used Cars
-Business Objective:
+
+#Business Objective:
 The primary goal of this project is to accurately analyze and predict the selling price of used cars. This helps sellers set competitive prices and aids buyers in making informed purchasing decisions.
 
 Project Explanation:
